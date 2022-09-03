@@ -1,1 +1,1 @@
-10-mirror_permissions
+ 12-directory_permissions
